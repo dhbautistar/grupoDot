@@ -1,0 +1,8 @@
+fastapi
+pydantic
+pydantic[email]
+pyjwt
+pytest
+python-dotenv
+requests
+uvicorn
